@@ -29,8 +29,10 @@ The slope of the line is not zero because the p-values are under 0.05 (5.35e-11.
 
 <img width="632" alt="Deliverable2_DataFrames" src="https://user-images.githubusercontent.com/105175961/206320675-38d6b3a0-3d8c-4a78-b07c-f22de2c9e061.png">
 
-The overall performance analysis on suspension coils shows us an average of 1498.78 PSI with a variance of 62.29 which does meet requirements. However when we break it down further into Lot 1, Lot 2 and Lot 3, we can see a much larger range in variance. Lot 1 and 2 meet requirements with similar means and a variance between 0.98 and 7.47 with low standard deviation, while Lot 3 is driving up the overall total variance at 170.29 and standard deviation at 13.05, which is going to affect overall totals and requirements. 
+The overall performance analysis on suspension coils shows us an average of 1498.78 PSI with a variance of 62.29 which does meet requirements. However when we break it down further into Lot 1, Lot 2 and Lot 3, we can see a much larger range in variance. Lot 1 and 2 meet requirements with similar means and a variance between 0.98 and 7.47 with low standard deviation, while Lot 3 is driving up the overall total variance at 170.29 and standard deviation at 13.05, which is going to affect overall totals and requirements. So overall summary and Lots 1 and 2 meet requirements but Lot 3 does not.
 
 ## T-Tests on Suspension Coils
+
+
 
 ## Study Design: MechaCar vs Competition
