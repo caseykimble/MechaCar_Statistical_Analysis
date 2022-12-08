@@ -47,6 +47,6 @@ The overall performance analysis on suspension coils shows us an average of 1498
 
 <img width="603" alt="Deliverable3_Lot3" src="https://user-images.githubusercontent.com/105175961/206323641-d3df4710-69d5-449c-b53e-425043ada5f1.png">
 
-Lot 1 and Lot 2 show p-values over 0.05 therefore we can not reject the null hypothesis. Lot 3, however, shows a p-value of 0.4168.
+Lot 1 and Lot 2 show p-values over 0.05 therefore we can not reject the null hypothesis. Lot 3, however, shows a p-value of 0.4168, which is statistically different from the population mean.
 
 ## Study Design: MechaCar vs Competition
