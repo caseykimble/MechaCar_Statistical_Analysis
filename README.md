@@ -50,3 +50,5 @@ The overall performance analysis on suspension coils shows us an average of 1498
 Lot 1 and Lot 2 show p-values over 0.05 therefore we can not reject the null hypothesis. Lot 3, however, shows a p-value of 0.4168, which is statistically different from the population mean.
 
 ## Study Design: MechaCar vs Competition
+
+There is no doubt with today's high gas prices that consumers would consider fuel efficiency as a top metric when looking for a new vehicle. We could look at how the cost of a vehicle varies based on the fuel efficiency metric. To analyze this data we would need to know city and highway gas mileage of the vehicles and include costs of the vehicle as well. A null hypothesis could be fuel efficiency potentially having no effect on the cost.
